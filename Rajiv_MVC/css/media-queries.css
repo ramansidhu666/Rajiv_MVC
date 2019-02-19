@@ -1,0 +1,26 @@
+@media screen and (max-width:1366px){}
+@media screen and (max-width:1280px){}
+@media screen and (max-width:1024px){.menu_sction .nav a{font-family:"TrajanPro-Regular";font-size:14px;padding:6px 19px;text-decoration:none;}
+}
+@media screen and (max-width:768px){.services_sctn h2{color:#fdbf00;float:left;font-family:"TrajanPro-Regular";font-size:18px;font-weight:bold;margin:12px 0;text-transform:uppercase;background:#181818;width:100%;}
+.red_hdng{color:#fb324a;font-size:23px;}
+.footer ul li a{color:#060000;font-family:"TrajanPro-Regular";font-size:16px;margin:0 26px;}
+.services_bg{float:left;margin:0;width:100%;}
+}
+@media screen and (max-width:736px){.logo{float:left;margin:6px 0 0;width:100%;text-align:center;}
+.about_img_sct{float:left;margin:0 0 12px;text-align:center;width:100%;}
+.services_sctn h2{color:#fdbf00;float:left;font-family:"TrajanPro-Regular";font-size:22px;font-weight:bold;margin:12px 0;text-transform:uppercase;background:#181818;width:100%;}
+.red_hdng{color:#fb324a;font-size:28px;}
+.services_sctn{float:left;text-align:center;width:100%;margin:12px 0;}
+.about_heading{float:left;text-align:center;width:100%;}
+}
+@media screen and (max-width:640px){}
+@media screen and (max-width:480px){}
+@media screen and (max-width:414px){.footer ul li a{color:#060000;font-family:"TrajanPro-Regular";font-size:16px;line-height:30px;margin:0 8px;}
+.top_section_bg{float:left;width:100%;background:#272d3b;padding:0px 0;}
+.menu_sction .nav > li{float:left;padding:5px;width:100%;}
+.logo{float:left;margin:12px 0;text-align:center;width:100%;}
+}
+@media screen and (max-width:360px){}
+@media screen and (max-width:320px){.footer ul li a{color:#060000;font-family:"TrajanPro-Regular";font-size:15px;line-height:30px;margin:0 8px;}
+}
